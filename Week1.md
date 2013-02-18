@@ -12,7 +12,7 @@ Check out my Java video lectures on [iTunes University](http://itunes.apple.com/
 * Read the remainder of chapter 1
 * Review chapter 13
 
-### Wk1 - Java Review ###
+### Week 1 Assignment (Java Review) ###
 Complete program number 4 on page 96 of the textbook for next class. You must use radians for the angle as that is the unit of measure expected by the cos() and sin() methods. If you think better in "degrees" there are helper function in the Math class to do the conversion.
 
 [Some reading on radians!](http://www.ucl.ac.uk/Mathematics/geomath/trignb/deg.html)
